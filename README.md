@@ -6,8 +6,17 @@
 
 Data: 17 a ** de março de 2026  
 
-Integrantes: Reginaldo, Ryan e Anderson  
-Professor: José de Assis
+Participantes:
+
+- Reginaldo Tirolla Filho
+
+- Ryan Ferreira de Lima
+
+- Anderson Wilmer  
+
+Professor: 
+
+- José de Assis
 
 ---
 
