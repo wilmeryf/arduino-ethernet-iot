@@ -1,1 +1,38 @@
-# arduino-ethernet-iot
+![GitHub License](https://img.shields.io/github/license/wilmeryf/arduino-ethernet-iot?style=for-the-badge)
+
+# Laboratório de Redes - Projeto Arduino com Ethernet Shield
+
+**Unidade Curricular 5 - SENAC**
+
+Data: 17 a ** de março de 2026  
+
+Integrantes: Reginaldo, Ryan e Anderson  
+Professor: José de Assis
+
+---
+
+## Objetivo
+Aplicar conceitos de IoT e automação industrial na prática, utilizando comunicação em rede.
+
+---
+
+## Tecnologias utilizadas
+- Arduino
+- Ethernet Shield
+- Cabo RJ45
+- Arduino IDE
+- HTML
+- Fritzing
+
+---
+
+## Testes realizados
+
+- Ping via celular
+- Acesso via navegador
+
+---
+
+## Resultado
+
+Em desenvolvimento.
