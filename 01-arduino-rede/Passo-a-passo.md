@@ -50,9 +50,9 @@ Permitir que o dispositivo obtivesse um endereço IP e pudesse se comunicar na r
 
 ## Testes Realizados
 
-- Verificação do endereço IP do Arduino ✔  
-- Teste de conectividade utilizando **ping** ✔  
-- Teste realizado via celular ✔  
+- Verificação do endereço IP do Arduino ✓  
+- Teste de conectividade utilizando **ping** ✓  
+- Teste realizado via celular ✓ 
 
 ---
 
