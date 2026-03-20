@@ -8,15 +8,19 @@ Data: 17 a ** de março de 2026
 
 Participantes:
 
-- Reginaldo Tirolla Filho
-
-- Ryan Ferreira de Lima
-
-- Anderson Wilmer Yapiticona Flores
+- Reginaldo Tirolla Filho  
+- Ryan Ferreira de Lima  
+- Anderson Wilmer Yapiticona Flores  
 
 Professor: 
 
 - José de Assis
+
+---
+
+## Ilustração do Projeto
+
+![Arduino com Ethernet Shield](arduino-ethernet-shield.jpg)
 
 ---
 
