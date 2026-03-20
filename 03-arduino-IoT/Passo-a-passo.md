@@ -1,4 +1,4 @@
-# Controle de LEDs via Navegador
+# Servidor Web com Interação do Arduino
 
 Implementamos a interação entre o usuário e o Arduino através de uma interface web. Foi possível controlar LEDs utilizando botões em uma página HTML acessada pelo navegador.
 
