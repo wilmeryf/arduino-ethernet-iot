@@ -1,7 +1,7 @@
 /**
   Arduino IoT
   Exemplo 1: Controle de dispositivos
-  @author Reginaldo, Ryan e Anderson
+  @author Anderson
 */
 
 #include <SPI.h>
@@ -28,7 +28,8 @@ const char pagina[] PROGMEM = R"HTML(
             text-align: center;
         }
         
-        a {
+        button {
+            {
             text-decoration: none;
             font-weight: bold;
             padding: 15px;
@@ -47,12 +48,20 @@ const char pagina[] PROGMEM = R"HTML(
 <body>
     <h1>Arduino IoT</h1>
     <p>Exemplo 1: Controle de dispositivos</p>
+
     <h2>Controle do LED VERMELHO</h2>
-    <a href="/?led-on1" class="on">ON</a>
-    <a href="/?led-off1" class="off">OFF</a>
+
+    <button onclick="cmd('led-on1')" class="on">ON</button>
+    <button onclick="cmd('led-off1')" class="off">OFF</button>
     <h2>Controle do LED AMARELO</h2>
-    <a href="/?led-on2" class="on">ON</a>
-    <a href="/?led-off2" class="off">OFF</a>
+
+    <button onclick="cmd('led-on2')" class="on">ON</button>
+    <button onclick="cmd('led-off2')" class="off">OFF</button>
+    <script>
+    function cmd(comando) {
+      fetch("/?" + comando);
+    }
+    </script>
 </body>
 </html>
 )HTML";
