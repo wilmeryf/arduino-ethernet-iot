@@ -33,9 +33,9 @@ Permitir que o dispositivo obtivesse um endereço IP e pudesse se comunicar na r
 
 1. Abrir a Arduino IDE  
 2. Importar a biblioteca Ethernet (já incluída na IDE)  
-3. Definir um endereço MAC no código  
-4. Configurar o Arduino para obter IP automaticamente (DHCP)  
-5. Fazer upload do código para o Arduino  
+3. Obter endereço MAC do arduino (link no código)  
+4. Fazer upload do código para o Arduino  
+5. Código está em [IP-arduino.ino](Códigos/IP-arduino.ino)  
 
 ---
 
