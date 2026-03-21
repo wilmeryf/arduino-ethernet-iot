@@ -51,6 +51,12 @@ Implementamos um servidor web no Arduino, permitindo o acesso a uma página HTML
 
 ---
 
+## Imagens
+
+![Servidor WEB do Arduino](Imagens/arduino-web-server.jpg)
+
+---
+
 ## Testes Realizados
 
 - Acesso ao IP do Arduino via navegador ✓ 
