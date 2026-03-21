@@ -29,7 +29,6 @@ const char pagina[] PROGMEM = R"HTML(
         }
         
         button {
-            {
             text-decoration: none;
             font-weight: bold;
             padding: 15px;
