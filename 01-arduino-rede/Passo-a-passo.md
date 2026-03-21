@@ -66,12 +66,13 @@ Após a configuração, o Arduino:
 
 ---
 
-## 📸 Imagens
+## Imagens
 
-Adicionar aqui:
-- Foto da montagem  
-- Print do ping  
-- Print da configuração no roteador  
+![Arduino](Imagens/arduino.jpg)
+
+![Serial Monitor](Imagens/serial-monitor.jpg)
+
+![Reserva do IP](Imagens/reserva-ip.jpg)
 
 ---
 
