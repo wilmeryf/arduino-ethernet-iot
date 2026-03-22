@@ -57,6 +57,14 @@ Implementamos a interação entre o usuário e o Arduino através de uma interfa
 
 ---
 
+## Imagens
+
+![Arduino IDE](Imagens/arduino-ide.jpg)
+
+![Arduino IoT](Imagens/arduino-iot.jpg)
+
+---
+
 ## Testes Realizados
 
 - Acesso ao sistema via celular ✓  
