@@ -45,7 +45,8 @@ Aplicar conceitos de IoT e automação industrial na prática, utilizando comuni
 
 - Ping via celular   
 - Acesso via navegador   
-- Controle de LEDs via navegador  
+- Controle de LEDs via web
+- Exibição de temperatura e umidade via web  
 
 ---
 
