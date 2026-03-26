@@ -68,8 +68,6 @@ Implementamos a leitura de sensores utilizando o Arduino e exibimos os dados em 
 
 ## Imagens
 
-![Serial Monitor](Imagens/serial-monitor.jpg)
-
 ![Arduino Sensor de Temperatura](Imagens/arduino-sensor-temperatura.jpg)
 
 ![WEB Server Temperatura](Imagens/web-temperatura.jpg)
