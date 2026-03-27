@@ -53,4 +53,24 @@ Aplicar conceitos de IoT e automação industrial na prática, utilizando comuni
 
 ## Resultado
 
+Ao final do projeto, foi desenvolvido um sistema de automação e monitoramento utilizando Arduino com Ethernet Shield, capaz de se conectar à rede local e ser acessado via navegador.
 
+O sistema permite:
+
+- Acesso ao Arduino através de um endereço IP na rede local  
+- Controle de dispositivos (LEDs) remotamente via interface web  
+- Exibição de uma página HTML hospedada no próprio Arduino  
+- Monitoramento de temperatura e umidade em tempo real  
+- Geração de alertas automáticos quando a temperatura ultrapassa o limite definido  
+- Leitura de distância utilizando sensor ultrassônico  
+
+A interface web pode ser acessada por dispositivos móveis, permitindo interação direta com o sistema, como ligar/desligar dispositivos e visualizar dados dos sensores.
+
+Este projeto demonstra, na prática, conceitos de:
+
+- Internet das Coisas (IoT)  
+- Automação residencial/industrial  
+- Comunicação em rede (cliente-servidor)  
+- Integração entre hardware e software  
+
+O resultado final foi um sistema funcional, interativo e acessível, capaz de integrar sensores e atuadores em uma rede local, simulando aplicações reais de automação.
