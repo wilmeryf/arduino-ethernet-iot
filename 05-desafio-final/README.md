@@ -1,11 +1,8 @@
 # 📡 Projeto IoT - Sensor Ultrassônico com Web App
 
-![GitHub
-License](https://img.shields.io/github/license/seu-usuario/seu-repo)
-
 ## 👨‍🎓 Informações
 
-**Aluno:** Reginaldo\
+**Aluno:** Reginaldo\ Anderson\ Ryan
 **Disciplina:** IoT\
 **Tipo:** Atividade Avaliativa
 
