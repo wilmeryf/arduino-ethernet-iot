@@ -1,5 +1,8 @@
 # 📡 Projeto IoT - Sensor Ultrassônico com Web App
 
+![arduino](arduino-sensor-distancia.jpg)
+
+
 ## 👨‍🎓 Informações
 
 **Aluno:** Reginaldo\ Anderson\ Ryan
