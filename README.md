@@ -4,7 +4,7 @@
 
 **Unidade Curricular 5 - SENAC**
 
-Data: 17 a ** de março de 2026  
+Data: 17 a 27 de março de 2026  
 
 Participantes:
 
@@ -46,10 +46,11 @@ Aplicar conceitos de IoT e automação industrial na prática, utilizando comuni
 - Ping via celular   
 - Acesso via navegador   
 - Controle de LEDs via web
-- Exibição de temperatura e umidade via web  
+- Exibição de temperatura e umidade via web
+- Sensor Ultrassônico (desafio final)
 
 ---
 
 ## Resultado
 
-Em desenvolvimento.
+
