@@ -20,7 +20,7 @@ Professor:
 
 ## Ilustração do Projeto
 
-![Arduino com Ethernet Shield](arduino-ethernet-shield.jpg)
+![Arduino com Ethernet Shield](Imagem/arduino-ethernet-shield.jpg)
 
 ---
 
