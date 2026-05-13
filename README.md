@@ -4,17 +4,10 @@
 
 **Unidade Curricular 5 - SENAC**
 
-Data: 17 a 27 de março de 2026  
+> **Data:** 17 a 27 de março de 2026  
 
-Participantes:
-
-- Reginaldo Tirolla Filho  
-- Ryan Ferreira de Lima  
-- Anderson Wilmer Yapiticona Flores  
-
-Professor: 
-
-- José de Assis
+**Integrantes:** [Reginaldo Filho](https://github.com/reginaldotfilho), [Ryan Ferreira](https://github.com/ryan0f0lima32) e Anderson Wilmer  
+**Professor:** José de Assis
 
 ---
 
