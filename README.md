@@ -1,4 +1,5 @@
-![GitHub License](https://img.shields.io/github/license/wilmeryf/arduino-ethernet-iot?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/wilmeryf/arduino-ethernet-iot?style=for-the-badge) -
+![Arduino](https://img.shields.io/badge/Arduino-Ethernet_Shield-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 # Laboratório de Redes - Projeto Arduino com Ethernet Shield
 
